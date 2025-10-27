@@ -2,6 +2,10 @@
 
 A powerful Streamlit web application that uses OpenAI's GPT-4 to analyze documents, generate summaries, extract insights, and provide an interactive question-answering interface.
 
+## Why This Project
+InsightGPT demonstrates my ability to build end-to-end AI systems — combining modern LLM APIs, retrieval-based search, and human-centered UX. The app was designed to show practical use of agentic reasoning and contextual retrieval pipelines for real-world data exploration.
+
+
 ![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/streamlit-1.28+-red.svg)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-green.svg)
